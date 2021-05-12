@@ -2,6 +2,14 @@
 
 Instagram allows users to download their personal data as a local zip file. But the content of the file are not user-friendly since the data is in JSON format. So, I made this program using Python and PyQt5 to view the JSON in a more easily readable format.
 
+> **Note** Instagram changed the structure as well as JSON format for the user data in Dec 2020.
+
+> If your data was downloaded before Dec 2020, use *IG Chat Parser v2*.
+
+> If your data was downloaded after Dec 2020, use *IG Chat Parser v1*.
+
+> If you are not sure about the date of download, try using both versions, and see which one works for your data.
+
 # Screenshot
 ![Alt text](Screenshots/img1.png?raw=true "InstaGram Chat Parser")
 ![Alt text](Screenshots/img2.png?raw=true "InstaGram Chat Parser")
