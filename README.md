@@ -29,3 +29,9 @@ Instagram allows users to download their personal data as a local zip file. But 
 Please [contact](mailto:mearunprabhakar14@gmail.com) me if you're interested in contributing to this project as it's still in it's early stages.
 
 Happy Coding!
+
+[//]: # (links)
+    
+   [Python]: <https://www.python.org/>
+   [PyQt5]: <https://pypi.org/project/PyQt5/>
+   
