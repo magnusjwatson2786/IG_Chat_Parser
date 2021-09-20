@@ -4,9 +4,9 @@ Instagram allows users to download their personal data as a local zip file. But 
 
 > **Note** Instagram changed the structure as well as JSON format for the user data in Dec 2020.
 
-> If your data was downloaded before Dec 2020, use *IG Chat Parser v2*.
+> If your data was downloaded before Dec 2020, use *IG Chat Parser OD*.
 
-> If your data was downloaded after Dec 2020, use *IG Chat Parser v1*.
+> If your data was downloaded after Dec 2020, use *IG Chat Parser ND*.
 
 > If you are not sure about the date of download, try using both versions, and see which one works for your data.
 
